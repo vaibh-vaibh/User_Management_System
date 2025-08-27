@@ -2,6 +2,7 @@
 
 A complete, modern CRUD (Create, Read, Update, Delete) application built with vanilla JavaScript, HTML, and CSS. This application provides a user management system with a beautiful, responsive interface.
 
+## Live: https://celadon-starlight-7fe035.netlify.app/
 ## 🚀 Features
 
 ### Core CRUD Operations
